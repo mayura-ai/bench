@@ -1,0 +1,10 @@
+attrs==23.2.0
+jsonlines==4.0.0
+packaging==24.1
+pdf2image==1.17.0
+pillow==10.4.0
+PyMuPDF==1.24.9
+PyMuPDFb==1.24.9
+pytesseract==0.3.10
+setuptools==69.5.1
+wheel==0.43.0

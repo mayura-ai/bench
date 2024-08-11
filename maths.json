@@ -1,0 +1,664 @@
+[
+    {
+        "id": "aa98a675-1080-47b7-816e-0f74e954e893",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "SECTION – A\nMultiple Choice Questions: This section contains 20 multiple choice questions. Each question has 4 choices (1), (2), (3) and (4), out of which ONLY ONE is correct.\nChoose the correct answer :\n1. Let A = {z ∈ C : 1 ≤ |z – (1 + i)| ≤ 2} and B = {z ∈ A : |z – (1 – i)| = 1}. Then, B :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "Is an empty set"
+                },
+                {
+                    "label": "B",
+                    "text": "Contains exactly two elements"
+                },
+                {
+                    "label": "C",
+                    "text": "Contains exactly three elements"
+                },
+                {
+                    "label": "D",
+                    "text": "Is an infinite set"
+                }
+            ],
+            "images": [],
+            "correct_label": "D"
+        }
+    },
+    {
+        "id": "3e8cfe0f-167a-478c-bb46-7741b3e7e22d",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "2. The remainder when 32022 is divided by 5 is :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "1"
+                },
+                {
+                    "label": "B",
+                    "text": "2"
+                },
+                {
+                    "label": "C",
+                    "text": "3"
+                },
+                {
+                    "label": "D",
+                    "text": "4"
+                }
+            ],
+            "images": [],
+            "correct_label": "D"
+        }
+    },
+    {
+        "id": "ff8148a1-66d9-4180-befc-a62dd00e5833",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "3. The surface area of a balloon of spherical shape being inflated, increases at a constant rate. If initially, the radius of balloon is 3 units and after 5 seconds, it becomes 7 units, then its radius after 9 seconds is :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "9"
+                },
+                {
+                    "label": "B",
+                    "text": "10"
+                },
+                {
+                    "label": "C",
+                    "text": "11"
+                },
+                {
+                    "label": "D",
+                    "text": "12"
+                }
+            ],
+            "images": [],
+            "correct_label": "A"
+        }
+    },
+    {
+        "id": "307e3d54-9573-47ca-8f2a-8473d3b47c95",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "4. Bag A contains 2 white, 1 black and 3 red balls and bas B contains 3 black, 2 red and n white balls. One bag is chosen at random and 2 balls drawn from it at random, are found to be 1 red and 1 black. If the probability that both balls come from Bag A is \\(\\begin{array}{l}\\frac{6}{11}\\end{array} \\) then n is equal to _______.",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "13"
+                },
+                {
+                    "label": "B",
+                    "text": "6"
+                },
+                {
+                    "label": "C",
+                    "text": "4"
+                },
+                {
+                    "label": "D",
+                    "text": "3"
+                }
+            ],
+            "images": [],
+            "correct_label": "C"
+        }
+    },
+    {
+        "id": "e7753e7c-95d3-4090-8222-0650544e795c",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "5. Let \\(\\begin{array}{l}x^2+y^2+Ax+By+C=0\\end{array} \\) be a circle passing through (0, 6) and touching the parabola y = x2 at (2, 4). Then A + C is equal to ________.",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "16"
+                },
+                {
+                    "label": "B",
+                    "text": "\\(\\begin{array}{l}\\frac{88}{5}\\end{array} \\)"
+                },
+                {
+                    "label": "C",
+                    "text": "72"
+                },
+                {
+                    "label": "D",
+                    "text": "–8"
+                }
+            ],
+            "images": [],
+            "correct_label": "A"
+        }
+    },
+    {
+        "id": "5d5a96c9-0108-4ac0-90ae-41b1d05b5151",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "6. The number of values of α for which the system of equations :\nx + y + z = α\nαx + 2αy + 3z = –1\nx + 3αy + 5z = 4\nis inconsistent, is",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "0"
+                },
+                {
+                    "label": "B",
+                    "text": "1"
+                },
+                {
+                    "label": "C",
+                    "text": "2"
+                },
+                {
+                    "label": "D",
+                    "text": "3"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "c56ddf0f-edc1-4bbd-97e4-472d13a455f7",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "7. If the sum of the squares of the reciprocals of the roots α and β of the equation 3x2 + λx – 1 = 0 is 15, then 6(α3 + β3)2 is equal to :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "18"
+                },
+                {
+                    "label": "B",
+                    "text": "24"
+                },
+                {
+                    "label": "C",
+                    "text": "36"
+                },
+                {
+                    "label": "D",
+                    "text": "96"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "f63ed276-46c5-4985-994f-8e6f99ca94b1",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "8. The set of all values of k for which \\(\\begin{array}{l}\\left ( \\tan^{-1}x \\right )^3+\\left ( \\cot^{-1}x \\right )^3=k\\pi ^3, x \\in R,\\end{array} \\) is the interval:",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}\\left [ \\frac{1}{32},\\frac{7}{8} \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "\\(\\begin{array}{l}\\left ( \\frac{1}{24},\\frac{13}{16} \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}\\left [ \\frac{1}{48},\\frac{13}{16} \\right ]\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}\\left [ \\frac{1}{32},\\frac{9}{8} \\right )\\end{array} \\)"
+                }
+            ],
+            "images": [],
+            "correct_label": "A"
+        }
+    },
+    {
+        "id": "5b0a7457-ff03-4c26-b7cd-f855ca7ca3ea",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "9. Let \\(\\begin{array}{l}S=\\left\\{ \\sqrt{n}:1\\le n \\le 50 \\text{ and } n \\text{ is odd} \\right\\}\\end{array} \\).\nLet \\(\\begin{array}{l}a\\in S \\text{ and } A=\\begin{bmatrix}1 & 0 & a \\\\-1 & 1 & 0 \\\\-a & 0 & 1 \\\\\\end{bmatrix}\\end{array} \\)\nIf \\(\\begin{array}{l}\\sum_{a~\\in~S} \\det \\left ( adj A \\right ) = 100 \\lambda\\end{array} \\), then λ is equal to :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "218"
+                },
+                {
+                    "label": "B",
+                    "text": "221"
+                },
+                {
+                    "label": "C",
+                    "text": "663"
+                },
+                {
+                    "label": "D",
+                    "text": "1717"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "26e97765-f3f9-4693-b4cf-c01c5dd39828",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "10. For the function\nf(x) = 4 loge(x – 1) – 2x2 + 4x + 5, x > 1, which one of the following is NOT correct?",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "f is increasing in (1, 2) and decreasing in (2, )"
+                },
+                {
+                    "label": "B",
+                    "text": "f(x) = –1 has exactly two solutions"
+                },
+                {
+                    "label": "C",
+                    "text": "f′(e) – f′′(2) < 0"
+                },
+                {
+                    "label": "D",
+                    "text": "f(x) = 0 has a root in the interval (e, e + 1)"
+                }
+            ],
+            "images": [],
+            "correct_label": "C"
+        }
+    },
+    {
+        "id": "27ccbffe-2a0c-41d8-b9a4-d636225d15fb",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 1,
+            "question": "11. If the tangent at the point (x1, y1) on the curve y = x3 + 3x2 + 5 passes through the origin, then (x1, y1) does NOT lie on the curve :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}x^2+\\frac{y^2}{81}=2\\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "\\(\\begin{array}{l}\\frac{y^2}{9}-x^2=8 \\end{array} \\)"
+                },
+                {
+                    "label": "C",
+                    "text": "y = 4x2 + 5"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}\\frac{x}{3}-y^2=2\\end{array} \\)"
+                }
+            ],
+            "images": [
+                "https://cdn1.byjus.com/wp-content/uploads/2022/08/jee-main-2022-june-24-shift-1-maths-a11.png"
+            ],
+            "correct_label": null
+        }
+    },
+    {
+        "id": "a3ce265e-2b2e-436f-9116-808dce49400b",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "12. The sum of absolute maximum and absolute minimum values of the function f(x) = |2x2 + 3x – 2| + sinx cosx in the interval [0, 1] is :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}3+\\frac{\\sin(1)\\cos^2\\left ( \\frac{1}{2} \\right )}{2} \\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "\\(\\begin{array}{l}3+\\frac{1}{2}\\left( 1+2\\cos(1)\\right )\\sin(1)\\end{array} \\)"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}5+\\frac{1}{2}\\left ( \\sin(1)+sin(2) \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}2+\\sin\\left ( \\frac{1}{2} \\right )\\cos\\left ( \\frac{1}{2} \\right )\\end{array} \\)"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "08f6a7e2-a33e-4850-9248-9bc63c4d5481",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "13. If \\(\\begin{array}{l}\\left\\{ a_i\\right\\}_{i=1}^n\\end{array} \\), where n is an even integer, is an arithmetic progression with common difference 1, and \\(\\begin{array}{l}\\sum_{i=1}^{n}a_i = 192,\\sum_{i=1}^{n/2}a_{2i}= 120\\end{array} \\), then n is equal to :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "48"
+                },
+                {
+                    "label": "B",
+                    "text": "96"
+                },
+                {
+                    "label": "C",
+                    "text": "92"
+                },
+                {
+                    "label": "D",
+                    "text": "104"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "1f28f939-293c-4e24-bb13-68b458d0ef18",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "14. If x = x(y) is the solution of the differential equation \\(\\begin{array}{l}y\\frac{dx}{dy}=2x+y^3(y+1)e^y, x(1)=0;\\end{array} \\) then x(e) is equal to :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "e3(ee – 1)"
+                },
+                {
+                    "label": "B",
+                    "text": "ee(e3 – 1)"
+                },
+                {
+                    "label": "C",
+                    "text": "e2(ee + 1)"
+                },
+                {
+                    "label": "D",
+                    "text": "ee(e2 – 1)"
+                }
+            ],
+            "images": [],
+            "correct_label": "A"
+        }
+    },
+    {
+        "id": "5cd44a12-14e6-4453-b317-1f17db8ee74c",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "15. Let λx – 2y = μ be a tangent to the hyperbola a2x2 – y2 = b2. Then \\(\\begin{array}{l}\\left ( \\frac{\\lambda}{a} \\right )^2-\\left ( \\frac{\\mu}{b} \\right )^2\\end{array} \\) is equal to :",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "–2"
+                },
+                {
+                    "label": "B",
+                    "text": "–4"
+                },
+                {
+                    "label": "C",
+                    "text": "2"
+                },
+                {
+                    "label": "D",
+                    "text": "4"
+                }
+            ],
+            "images": [],
+            "correct_label": "D"
+        }
+    },
+    {
+        "id": "f38aa44f-ef9e-47f5-931d-5d9d2344cbba",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "16. Let \\(\\begin{array}{l}\\hat{a}, \\hat{b}\\end{array} \\)be unit vectors. If \\(\\begin{array}{l}\\vec{c}\\end{array} \\) be a vector such that the angle between \\(\\begin{array}{l}\\hat{a}\\end{array} \\) and \\(\\begin{array}{l}\\vec{c}\\end{array} \\) is \\(\\begin{array}{l}\\frac{\\pi}{12}\\end{array} \\) and \\(\\begin{array}{l}\\hat{b}=\\vec{c}+2\\left ( \\vec {c}\\times\\hat{a} \\right )\\end{array} \\) then \\(\\begin{array}{l}\\left|6 \\vec{c}\\right|^2\\end{array} \\) is equal to:",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}6\\left ( 3-\\sqrt{3} \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "\\(\\begin{array}{l}3+\\sqrt{3}\\end{array} \\)"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}6\\left ( 3+\\sqrt{3} \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}6\\left ( \\sqrt{3} + 1 \\right )\\end{array} \\)"
+                }
+            ],
+            "images": [],
+            "correct_label": "C"
+        }
+    },
+    {
+        "id": "8b9c4ebf-53ff-4fc8-9675-f3138d3134db",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "17. If a random variable X follows the Binomial distribution B(33, p) such that 3P(X = 0) = P(X = 1), then the value of \\(\\begin{array}{l}\\frac{P\\left ( X=15 \\right )}{P\\left ( X=18 \\right )}-\\frac{P\\left ( X=16 \\right )}{P\\left ( X=17 \\right )}\\end{array} \\) is equal to:",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "1320"
+                },
+                {
+                    "label": "B",
+                    "text": "1088"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}\\frac{120}{1331}\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}\\frac{1088}{1089}\\end{array} \\)"
+                }
+            ],
+            "images": [],
+            "correct_label": "A"
+        }
+    },
+    {
+        "id": "699a86ed-5a49-432d-9336-f4065fad25df",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "18. The domain of the function \\(\\begin{array}{l}f(x)=\\frac{\\cos^{-1}\\left ( \\frac{x^2-5x+6}{x^2-9} \\right )}{\\log_e\\left ( x^2-3x+2 \\right )}\\end{array} \\) is:",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}\\left ( -\\infty,1 \\right )\\cup\\left ( 2, \\infty \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "(2, ∞)"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}\\left [ -\\frac{1}{2},1 \\right )\\cup\\left ( 2,\\infty \\right )\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "\\(\\begin{array}{l}\\left [ -\\frac{1}{2},1 \\right )\\cup\\left ( 2,\\infty \\right )-\\left\\{ \\frac{3+\\sqrt{5}}{2},\\frac{3-\\sqrt{5}}{2}\\right\\}\\end{array} \\)"
+                }
+            ],
+            "images": [],
+            "correct_label": "D"
+        }
+    },
+    {
+        "id": "4c38edbd-00cc-4684-998f-39e379faaa91",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "19. Let \\(\\begin{array}{l}S=\\left\\{ \\theta \\in \\left [ -\\pi, \\pi \\right ]-\\left\\{ \\pm\\frac{\\pi}{2}\\right\\}: \\sin\\theta\\tan\\theta + \\tan\\theta=\\sin2\\theta\\right\\}\\end{array} \\). If \\(\\begin{array}{l}T=\\sum_{\\theta = S}\\cos2\\theta\\end{array} \\) then T + n(S) is equal to:",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "\\(\\begin{array}{l}7+\\sqrt{3}\\end{array} \\)"
+                },
+                {
+                    "label": "B",
+                    "text": "9"
+                },
+                {
+                    "label": "C",
+                    "text": "\\(\\begin{array}{l}8+\\sqrt{3}\\end{array} \\)"
+                },
+                {
+                    "label": "D",
+                    "text": "10"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    },
+    {
+        "id": "a48317d9-2622-4478-9a39-46233a9987ca",
+        "metadata": {
+            "date": "2024-08-01",
+            "website": "example.com",
+            "exam": "Sample Exam",
+            "url": "https://byjus.com/jee/jee-main-2022-question-paper-maths-june-24-shift-1/"
+        },
+        "content": {
+            "is_multimodal": 0,
+            "question": "20. The number of choices for \\(\\begin{array}{l}\\Delta \\in \\left\\{ \\land, \\lor, \\Rightarrow, \\Leftrightarrow \\right\\}\\end{array} \\) such that (p Δ q) ⇒ ((p Δ ~ q) ∨ ((~p) Δ q)) is a tautology, is",
+            "options": [
+                {
+                    "label": "A",
+                    "text": "1"
+                },
+                {
+                    "label": "B",
+                    "text": "2"
+                },
+                {
+                    "label": "C",
+                    "text": "3"
+                },
+                {
+                    "label": "D",
+                    "text": "4"
+                }
+            ],
+            "images": [],
+            "correct_label": "B"
+        }
+    }
+]
