@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from bench.data.base import BaseData
 from bench.data.models import DataItem, Metadata, Content
+from urllib.parse import urlparse
 
 
 class BaseData(BaseData):
@@ -17,6 +18,10 @@ class BaseData(BaseData):
         soup = BeautifulSoup(response.content, "html.parser")
         content = soup.get_text()
         questions = re.split(r"\d+\.\s", content)[1:]
+
+        parsed_url = urlparse(url)
+        website = f"{parsed_url.scheme}://{parsed_url.netloc}/"
+        exam = parsed_url.path.split('/')[2]
 
         for question in questions:
             question_id = str(uuid.uuid4())
@@ -51,8 +56,8 @@ class BaseData(BaseData):
                 id=question_id,
                 metadata=Metadata(
                     date=datetime.now().strftime("%Y-%m-%d"),
-                    website="placeholder",
-                    exam="placeholder",
+                    website=website,
+                    exam=exam,
                     url=url,
                 ),
                 content=Content(
